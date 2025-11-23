@@ -23,7 +23,7 @@ The system is built on three main classes:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/alas-m/npc-reputation-system.git](https://github.com/alas-m/npc-reputation-system.git)
+    git clone https://github.com/alas-m/npc-reputation-system.git
     ```
 2.  Navigate to the folder:
     ```bash
